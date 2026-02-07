@@ -1,0 +1,9 @@
+{
+  "courseId": "python",
+  "title": "Python Programming",
+  "description": "A comprehensive Python programming course designed for beginners and intermediate learners. This course covers fundamental concepts, control structures, functions, and data structures through interactive learning materials and quizzes.",
+  "modules": [
+    "python-basics",
+    "python-intermediate"
+  ]
+}

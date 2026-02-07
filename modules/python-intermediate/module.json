@@ -1,0 +1,9 @@
+{
+  "moduleCode": "python-intermediate",
+  "title": "Python Intermediate",
+  "description": "Build on your Python fundamentals with intermediate concepts. This module covers functions for code reusability and data structures like lists and dictionaries for efficient data management.",
+  "topics": [
+    "functions",
+    "lists-and-dicts"
+  ]
+}

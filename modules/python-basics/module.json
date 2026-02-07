@@ -1,0 +1,10 @@
+{
+  "moduleCode": "python-basics",
+  "title": "Python Basics",
+  "description": "Learn the fundamental building blocks of Python programming. This module covers basic operators, conditional statements, and loop constructs - essential concepts for every Python programmer.",
+  "topics": [
+    "basic-operators",
+    "conditions",
+    "loops"
+  ]
+}
